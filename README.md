@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/isaacwasserman-mcp-cube-server-badge.png)](https://mseep.ai/app/isaacwasserman-mcp-cube-server)
+
 # Snowflake Cube Server
 
 [![smithery badge](https://smithery.ai/badge/@isaacwasserman/mcp_cube_server)](https://smithery.ai/server/@isaacwasserman/mcp_cube_server)
